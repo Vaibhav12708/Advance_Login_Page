@@ -351,8 +351,9 @@ p.field span.i {
 }
 
 .id{
-    position: absolute;
-  bottom: 0;
+  position: absolute;
+  bottom: 100;
+  colour: white;
   left: 0;
 }
 
