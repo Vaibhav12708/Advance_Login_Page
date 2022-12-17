@@ -350,6 +350,11 @@ p.field span.i {
           animation: bounceIn 0.6s linear;
 }
 
+.id{
+    position: absolute;
+  bottom: 0;
+  left: 0;
+}
 
 .box-form, .box-info, .b, .b-support, .b-cta,
 input[type=submit], p.field span.i {
